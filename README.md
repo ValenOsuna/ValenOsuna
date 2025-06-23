@@ -21,7 +21,7 @@ I'm a **System Analyst student** currently in my second year. I'm passionate abo
 - **Frontend:** React, HTML/CSS  
 - **Database:** MySQL  
 - **Tools:** Git, Docker, Basic Linux  
-- **Cloud:** Basic knowledge of AWS (EC2, S3, RDS, etc.)
+- **Cloud:** Basic knowledge of AWS (EC2, S3, IAM, RDS, etc.)
 
 ---
 
